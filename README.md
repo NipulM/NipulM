@@ -28,6 +28,8 @@ First-year CS student diving into backend development. Currently exploring Postg
 
 </div>
 
+<br />
+
 <!-- <code>
 <a href="https://lk.linkedin.com/in/nipul-mallikarachchi-b04490260">
    <img height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-256.png">
