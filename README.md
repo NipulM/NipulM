@@ -93,8 +93,8 @@ First-year CS student diving into backend development. Currently exploring Postg
 <br/>
 <a href="https://github.com/NipulM">
    <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NipulM&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left"/> -->
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipulM&theme=prussian&hide=Jupyter&layout=compact&hide_border=true" align="left"/>
-   <img height="200em" src="https://streak-stats.demolab.com/?user=NipulM&theme=prussian&hide_border=true" align="right" />
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipulM&theme=prussian&hide=Jupyter&layout=compact&hide_border=true" align="center"/>
+   <img height="200em" src="https://streak-stats.demolab.com/?user=NipulM&theme=prussian&hide_border=true" align="center" />
    <!-- radical -->
 <br/>
 
