@@ -47,7 +47,7 @@ First-year CS student diving into backend development. Currently exploring Postg
 
 <div align="center" style="text-align: center;">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24"><b>$~$ Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24"><b>Skills</b>
 
 <br />
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -95,8 +95,8 @@ First-year CS student diving into backend development. Currently exploring Postg
 <br/>
 <a href="https://github.com/NipulM">
    <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NipulM&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left"/> -->
-   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipulM&theme=prussian&hide=Jupyter&layout=compact&hide_border=true"/>
-   <img align="center" height="200em" src="https://streak-stats.demolab.com/?user=NipulM&theme=prussian&hide_border=true" />
+   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipulM&theme=prussian&hide=Jupyter&layout=compact&hide_border=true"/>
+   <img align="left" height="150em" src="https://streak-stats.demolab.com/?user=NipulM&theme=prussian&hide_border=true" />
    <!-- radical -->
 <br/>
 
