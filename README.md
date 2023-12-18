@@ -24,7 +24,7 @@ First-year CS student diving into backend development. Currently exploring Postg
 <code><a href="https://stackoverflow.com/users/21289377/nipulm" target="_blank"><img height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png"></a></code>
 <code><a href="mailto:nipulm03@gmail.com" alt="Email"><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/gmail-256.png"></a></code>
 <code><a href="https://github.com/NipulM" target="_blank"><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png"></a>
-<br />
+
 </code>
 
 </div>
