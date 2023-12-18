@@ -2,7 +2,7 @@
 <p align="center"><a href="https://github.com/NipulM"><img src="https://readme-typing-svg.demolab.com?font=kanit&duration=6000&pause=1000&color=bddfff&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nipul+Mallikarachchi%20%F0%9F%91%8B;" alt="Typing SVG" /></a></p>
 <!-- U+1F680  -->
 
-<div style="text-align: center; font-size: 17px">
+<div align="center" style="text-align: center; font-size: 17px">
 
 First-year CS student diving into backend development. Currently exploring PostgreSQL and setting sights on API development. Enthusiastic about server architecture and interested in NPM package creation. Despite my focus on backend, I previously worked on a front-end application called [forkify-nipul](https://forkify-nipul.netlify.app/), where I implemented an API to collect over 1M+ recipes.
 
@@ -12,11 +12,11 @@ First-year CS student diving into backend development. Currently exploring Postg
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NipulM&repo=forkify-nipul&theme=tokyonight&hide_border=true" />
 </a>
 
-</dvi>
+</div>
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
-## <img src="https://media.giphy.com/media/MYyMg2CLIVzugPIIBs/giphy.gif" width ="29"><b>$~$ Contact Me:</b>
+## <img src="https://media.giphy.com/media/MYyMg2CLIVzugPIIBs/giphy.gif" width ="29"><b>Contact Me:</b>
 
 <br />
 
@@ -26,6 +26,8 @@ First-year CS student diving into backend development. Currently exploring Postg
 <code><a href="https://github.com/NipulM" target="_blank"><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png"></a>
 <br />
 </code>
+
+</div>
 
 <!-- <code>
 <a href="https://lk.linkedin.com/in/nipul-mallikarachchi-b04490260">
@@ -43,7 +45,7 @@ First-year CS student diving into backend development. Currently exploring Postg
 </a>
 </code> -->
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="24"><b>$~$ Skills</b>
 
@@ -84,7 +86,7 @@ First-year CS student diving into backend development. Currently exploring Postg
 </div> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=NipulM)](https://github.com/ryo-ma/github-profile-trophy) -->
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="24" alt="Git"/> Github Stats
 
@@ -93,8 +95,8 @@ First-year CS student diving into backend development. Currently exploring Postg
 <br/>
 <a href="https://github.com/NipulM">
    <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NipulM&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left"/> -->
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipulM&theme=prussian&hide=Jupyter&layout=compact&hide_border=true" align="center"/>
-   <img height="200em" src="https://streak-stats.demolab.com/?user=NipulM&theme=prussian&hide_border=true" align="center" />
+   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipulM&theme=prussian&hide=Jupyter&layout=compact&hide_border=true"/>
+   <img align="center" height="200em" src="https://streak-stats.demolab.com/?user=NipulM&theme=prussian&hide_border=true" />
    <!-- radical -->
 <br/>
 
