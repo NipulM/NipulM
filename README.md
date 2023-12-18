@@ -8,7 +8,7 @@ First-year CS student diving into backend development. Currently exploring Postg
 
 <br />
 
-<a href="https://github.com/NipulM/forkify-nipulm">
+<a href="https://github.com/NipulM/forkify-nipul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NipulM&repo=forkify-nipul&theme=tokyonight&hide_border=true" />
 </a>
 
